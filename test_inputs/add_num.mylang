@@ -1,0 +1,5 @@
+let frutas = ["maca", "banana"] in 
+if frutas[0] == "maca" then
+  102 + 231
+else 
+  10 + 1 

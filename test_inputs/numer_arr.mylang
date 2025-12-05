@@ -1,0 +1,5 @@
+let numbers = [1, 2] in 
+if numbers[0] == 1 then 
+    "O numero e 1" 
+else 
+    "O numero nao eh 1"

@@ -1,0 +1,5 @@
+let frutas = ["maca", "banana"] in 
+if frutas[1] == "banana" then 
+    "A segunda fruta eh banana" 
+else 
+    "A segunda fruta NAO eh banana"
